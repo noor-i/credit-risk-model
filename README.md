@@ -2,6 +2,8 @@
 
 A machine learning project that predicts whether a loan applicant has **Good** or **Bad** credit risk using the German Credit dataset.
 
+Dataset Link: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk?resource=download
+
 ## What This Project Includes
 
 - Data exploration notebook: `analysis_model.ipynb`
