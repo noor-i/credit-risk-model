@@ -1,6 +1,6 @@
 # Credit Risk Prediction App
 
-A beginner-friendly machine learning project that predicts whether a loan applicant has **Good** or **Bad** credit risk using the German Credit dataset.
+A machine learning project that predicts whether a loan applicant has **Good** or **Bad** credit risk using the German Credit dataset.
 
 ## What This Project Includes
 
@@ -59,8 +59,3 @@ The app takes:
 - Duration (months)
 
 And returns the predicted credit risk label.
-
-## Notes
-
-- This project is for educational/demo use.
-- Model quality can be improved with cross-validation, feature engineering, and class-balance handling.
