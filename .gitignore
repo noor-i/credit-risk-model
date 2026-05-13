@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Model artifacts (keep if you want reproducible demo, remove if too large)
+# *.pkl
